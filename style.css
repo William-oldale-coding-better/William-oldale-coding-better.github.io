@@ -1,0 +1,40 @@
+ body {
+            background-color:aqua;
+            font-family: Arial, sans-serif;
+            margin-left:20%;
+            margin-right:20%;
+            margin-top:20px;
+        }
+        
+header {
+    background-color:black;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+}
+        h1 {
+            color: teal;
+        }
+
+        p {
+            color: red;
+        }
+
+        .color-orange {
+            color: orange;
+        }
+
+        .font-size-12 {
+            font-size: 12px;
+        }
+
+        #last-paragraph {
+            color: red;
+        }
+
+        .profile-image {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
